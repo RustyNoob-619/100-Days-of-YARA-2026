@@ -13,7 +13,7 @@ rule SUS_WIN_PE_HeaderRichLinkerMismatch_Version_PE_Properties_Jan26
     condition:
         uint16(0) == 0x5a4d 
         not pe.imports("mscoree.dll") // Ignore .NET
-        and pe.rich_signature.length > 0 // Check for Rich 
+        and pe.rich_signature.length > 0 // Check for Rich header presence
         and pe.linker_version.major == 14 // MSVC 14.X version
         and for any tool in pe.rich_signature.tools: ( // Iterate through various RICH Headers 
 
