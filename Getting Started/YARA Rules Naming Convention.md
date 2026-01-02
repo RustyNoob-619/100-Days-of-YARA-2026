@@ -11,7 +11,6 @@ Likewise, if a rule is aimed at detecting known threat actors rather than the ma
 
 **Setup**
 The recommended method to write YARA is using the VS Code Editor. There is a custom VS Code Snippet Generator that will populate the YARA template according to our requirements, please use it. The instructions to install it are in the file itself. It can be found under the following link:
-https://dev.azure.com/BWC-SECOPS/_git/Cyber%20Threat%20Intelligence?path=/YARA/Utilities/VS_Code_Snippet_Code_Gen.json
 
 **Intention_ActorType_CountryCode_ActorName_OSType_Technology_MalwareType_MalwareName_RuleDate**
 
