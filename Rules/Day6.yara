@@ -13,7 +13,7 @@ rule SUS_WIN_PE_ImportsNumRichSigProdIdImport0_Mismatch_Version_PE_Properties_Ja
     condition:
         uint16(0) == 0x5A4D 
         and pe.rich_signature.toolid(0) > 0
-        and (pe.number_of_imports - pe.rich_signature.toolid(0)) > 30
+        and (pe.number_of_imports - pe.rich_signature.toolid(1)) > 20
         and filesize < 10MB
 
 }
