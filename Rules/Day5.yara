@@ -1,6 +1,6 @@
 import "pe"
 
-rule SUS_WIN_PE_InvalidRichHeaderXORKey_Version_PE_Properties_Jan26
+rule SUS_WIN_PE_InvalidRichHeaderXORKey_PE_Properties_Jan26
 {
     meta:
         rule_id = "c180ee2e-2325-47d5-8848-2cdabfee14bb"
