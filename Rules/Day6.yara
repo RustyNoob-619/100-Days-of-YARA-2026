@@ -1,7 +1,7 @@
 
 import "pe"
 
-rule SUS_WIN_PE_ImportsNumRichSigProdIdImport0_Mismatch_Version_PE_Properties_Jan26
+rule SUS_WIN_PE_ImportsNumRichSigProdIdImport0_Mismatch_PE_Properties_Jan26
 {
     meta:
         rule_id = "b623b3f8-5e4f-41d8-8f17-1ec51f07173c"
