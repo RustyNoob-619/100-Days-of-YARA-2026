@@ -8,7 +8,7 @@ rule Actor_APT_DPRK_Multiple_MAL_WIN_DLL_RAT_NukeSped64_PEProperties_Jan26
         author = "Rustynoob619"
         description = "Detects NukeSped used by various DPRK APTs based on PE Rich header properties"
         source = "https://www.fortinet.com/blog/threat-research/deep-analysis-nukesped-rat"
-        filehash = "ff2eb800ff16745fc13c216ff6d5cc2de99466244393f67ab6ea6f8189ae01dd"
+        filehash = "229467c797351586197bdd34c2deb9a83260f7d911cc0df4e6027b68e59ec56a"
 
     condition:
         uint16(0) == 0x5a4d
