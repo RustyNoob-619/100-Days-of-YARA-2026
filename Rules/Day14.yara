@@ -2,7 +2,7 @@ rule Actor_APT_WesternAsia_UNG0801_MAL_WIN_PDF_Dropper_Unknown_Strings_Jan26
 {
     meta:
         rule_id = "908bdc32-35ba-4ce4-959e-f4a5c57a5382"
-        date = "13-01-2026"
+        date = "14-01-2026"
         author = "Rustynoob619"
         description = "Detects Malicious PDFs used by UNG0801 based on Author ID"
         source = "https://malware.news/t/ung0801-tracking-threat-clusters-obsessed-with-av-icon-spoofing-targeting-israel/102767"
