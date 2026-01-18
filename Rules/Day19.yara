@@ -3,7 +3,7 @@ rule Actor_APT_CN_Multiple_MAL_LNX_ELF_Backdoor_VoidLink_Strings_Jan26
 {
     meta:
         rule_id = "1904ff5d-edb2-4116-a2c4-51957b89d517"
-        date = "14-01-2026"
+        date = "19-01-2026"
         author = "Rustynoob619"
         description = "Detects VoidLink Linux Backdoor used by Chinese Nexus Threat Actors based on strings"
         source = "https://research.checkpoint.com/2026/voidlink-the-cloud-native-malware-framework/"
