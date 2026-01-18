@@ -3,7 +3,7 @@ rule Actor_APT_CN_LotusPanda_MAL_WIN_PE_Backdoor_Sagerunex_Strings_Jan26
 {
     meta:
         rule_id = "ce7cd8e1-18df-41ca-a4d8-3f90ae349099"
-        date = "12-01-2026"
+        date = "20-01-2026"
         author = "Rustynoob619"
         description = "Detects Sagerunex Backdoor used by Chinese APT Lotus Panda based on strings"
         source = "https://securite360.net/the-intriguing-lotus-a-deep-dive-into-sagerunex"
