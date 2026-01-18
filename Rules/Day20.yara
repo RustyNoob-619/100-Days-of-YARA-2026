@@ -4,7 +4,7 @@ rule Actor_APT_CN_Multiple_MAL_LNX_ELF_InitialStages_VoidLink_ELFProperties_Jan2
 {
     meta:
         rule_id = "353d6da4-4e96-4f1a-9280-db6b8b3753ca"
-        date = "14-01-2026"
+        date = "20-01-2026"
         author = "Rustynoob619"
         description = "Detects stages 1 and 2 which drop VoidLink Linux Backdoor used by Chinese Nexus Threat Actors based on TELFHash"
         source = "https://research.checkpoint.com/2026/voidlink-the-cloud-native-malware-framework/"
