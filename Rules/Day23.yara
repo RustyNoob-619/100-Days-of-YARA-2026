@@ -4,7 +4,7 @@ rule Actor_APT_PK_SideCopy_MAL_WIN_LNK_Loader_Unknown_LNKProperties_Jan26
 {
     meta:
         rule_id = "bbe9eaa2-a544-4f3e-b613-d87f5329c897"
-        date = "17-01-2026"
+        date = "23-01-2026"
         author = "Rustynoob619"
         description = "Detects LNK files used by Pakistan APT SideWinder (APT36) based on LNK properties"
         source = "https://x.com/PrakkiSathwik/status/1991453048523382885"
