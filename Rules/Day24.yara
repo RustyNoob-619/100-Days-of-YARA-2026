@@ -3,7 +3,7 @@ rule Actor_APT_RU_Turla_MAL_WIN_DLL_Loader_KazuarV3_Strings_Jan26
 {
     meta:
         rule_id = "882c5b82-4638-4d58-8971-08ea0eb6e8b4"
-        date = "17-01-2026"
+        date = "24-01-2026"
         author = "Rustynoob619"
         description = "Detects Kazuar V3 loader used by Russian APT Turla based on strings"
         source = "https://r136a1.dev/2026/01/14/command-and-evade-turlas-kazuar-v3-loader/"
