@@ -4,7 +4,7 @@ rule MAL_ELF_Backdoor_GhostPenguin_Strings_Jan26
 {
     meta:
         rule_id = "48581ea6-7ad8-48bf-8028-d1145ab0ad71"
-        date = "12-01-2026"
+        date = "22-01-2026"
         author = "Rustynoob619"
         description = "Detects GhostPenguin Linux backdoor based on ELF tlfhash or embedded strings"
         source = "https://www.trendmicro.com/en_us/research/25/l/ghostpenguin.html"
