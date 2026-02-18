@@ -4,7 +4,7 @@ rule Actor_APT_CN_MustangPanda_MAL_WIN_SYS_Rootkit_Unknown_Feb26
 {
     meta:
         rule_id = "778bc752-9e80-4a7e-832b-10f54d4e5c5d"
-        date = "30-12-2025" 
+        date = "12-02-2026" 
         author = "Rustynoob619"
         description = "Detects rootkit derived from the used by Chinese APT Mustang Panda leading to execution of Tone Shell backdoor based on observed characteristics from the report"
         note = "look for a .SYS file with name ProjectConfiguration (alt. AppvVStram_.sys) signed by Guangzhou Kingteller Technology Co., Ltd. with size around 61KB"
