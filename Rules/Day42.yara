@@ -1,6 +1,6 @@
 import "pe"
 
-rule MAL_WIN_PE_Unknown_CodeSignCert001_Dec25
+rule MAL_WIN_PE_Unknown_CodeSignCert001_Feb26
 {
     meta:
         rule_id = "9bd197ee-875f-49ce-9843-e90467cecf9c"
