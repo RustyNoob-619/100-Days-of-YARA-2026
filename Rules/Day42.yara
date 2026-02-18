@@ -4,7 +4,7 @@ rule MAL_WIN_PE_Unknown_CodeSignCert001_Feb26
 {
     meta:
         rule_id = "9bd197ee-875f-49ce-9843-e90467cecf9c"
-        date = "30-12-2025" 
+        date = "11-02-2026" 
         author = "Rustynoob619"
         description = "Detects malware signed using an expired code signing certificate Anneng electronic Co. Ltd."
         source = "https://research.checkpoint.com/2025/ink-dragons-relay-network-and-offensive-operation/"
