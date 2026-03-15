@@ -3,7 +3,7 @@ rule Actor_APT_DPRK_Unknown_MAL_Script_PY_Stealer_Unknown_Strings_1_Feb26
       meta:
             rule_id = "7919137c-de06-43cc-800a-76c726b45fbd"
             date = "19-02-2026"
-            author = "Ransom-ISAC"
+            author = "RustyNoob619"
             //Payload 1_2_1_1 OmniStealer
             description = "Detects cluster of Python Scripts that are likely developed by a DPRK Nexus group"
             filehash = "742016f01fa89be4d43916d5d2349c8d86dc89f096302501ec22b5c239685a20"
