@@ -6,7 +6,7 @@ rule Actor_APT_DPRK_MAL_SCRIPT_JS_Loader_Unknown_Strings_Feb26
     meta:
         rule_id = "713af537-771f-44ee-b65c-1647d5ec9a84"
         date = "18-02-2026"
-        author = "RustyNoob619"
+        author = "Rustynoob619"
         description = "Detects JavaScript used by DPRK operators to fetch the next stay payloads"
         filehash1 = "165324541c8f2d0a4bdac12fcf7ccc1738caf7e36bb11721186e0c560c4a8a69"
         filehash2 = "e1790a08ebf0402d49e826b6f773b3b6e55f3cb5a755bc2067dda2a0c2737503"
