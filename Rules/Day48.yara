@@ -3,7 +3,7 @@ rule Actor_APT_DPRK_Konni_MAL_WIN_LNK_Loader_Unknown_Feb2026
     meta:
         rule_id = "4769666f-4740-496e-993d-8288d05260f1" 
         date = "2026-02-17" 
-        author = "RustyNoob619" 
+        author = "Rustynoob619" 
         description = "Detects LNK files acting as a loader for docx and cab files used by APRK APT Konni" 
         source = "https://research.checkpoint.com/2026/konni-targets-developers-with-ai-malware/" 
         filehash = "c94e58f134c26c3dc25f69e4da81d75cbf4b4235bcfb40b17754da5fe07aad0a"
