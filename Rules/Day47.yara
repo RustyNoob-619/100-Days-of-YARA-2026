@@ -3,7 +3,7 @@ rule Actor_APT_CN_AmaranthDragon_MAL_SCRIPT_BAT_Loader_Unknown_Feb26
     meta:
         rule_id = "56d1a457-4589-4e76-80f4-539066d03f56"
         date = "2026-02-16"
-        author = "RustyNoob619"
+        author = "Rustynoob619"
         description = "Detects a malicious batch loader used by Amaranth-Dragon (nexus of APT41)"
         source = "https://research.checkpoint.com/2026/amaranth-dragon-weaponizes-cve-2025-8088-for-targeted-espionage/"
         filehash = "8aacc30dac2ca9f41d7dd6d2913d94b0820f802bc04461ae65eb7cf70b53a8ab" 
