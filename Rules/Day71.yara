@@ -24,10 +24,11 @@ rule Actor_APT_CN_UNC2814_MAL_LNX_ELF_RAT_GRIDTIDE_Multiple_Mar26
 
         $str1 = "{\"ranges\":[\"a1:z1000\"]}" ascii fullword
         $str2 = "valueRenderOption=FORMULA HTTP/1.1" ascii fullword
+        $str3 = "S-C-R-%d" ascii fullword
         
     condition:
         uint32be(0) == 0x7f454c46
-        and (any of ($str*) or (
+        and (2 of ($str*) or (
             $usragnt
             and $bs64
             and any of ($sheets*)
