@@ -16,7 +16,7 @@ rule Actor_APT_DPRK_LABYRINTH_CHOLLIMA_MAL_WIN_PE_Implant_Dozer_Strings_Mar26
 
     condition:
         uint16(0) == 0x5a4d
-        and any of them
+        and 2 of them
         and filesize < 750KB
 
 }
